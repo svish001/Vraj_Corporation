@@ -1085,28 +1085,6 @@ footer.site-footer {
   color: var(--grey-400);
 }
 
-.side-link {
-  position: fixed;
-  right: 0;
-  top: 56%;
-  transform: translateY(-50%);
-  background: var(--red);
-  color: var(--white);
-  text-decoration: none;
-  padding: 10px 12px;
-  border-radius: 8px 0 0 8px;
-  font-family: "Rajdhani", sans-serif;
-  font-size: 12px;
-  letter-spacing: 1.2px;
-  text-transform: uppercase;
-  font-weight: 700;
-  z-index: 120;
-}
-
-.side-link:hover {
-  background: #ad3327;
-}
-
 .reveal {
   opacity: 0;
   transform: translateY(22px);
@@ -1249,14 +1227,6 @@ footer.site-footer {
 }
 
 @media (max-width: 620px) {
-  .side-link {
-    top: auto;
-    bottom: 16px;
-    right: 12px;
-    transform: none;
-    border-radius: 8px;
-  }
-
   .topbar-right {
     display: none;
   }
