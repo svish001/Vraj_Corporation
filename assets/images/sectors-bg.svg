@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="Sectors background placeholder">
+  <rect width="1400" height="900" fill="#0b2545"/>
+  <g stroke="#d6a72d" stroke-opacity="0.2" fill="none">
+    <circle cx="300" cy="220" r="180"/>
+    <circle cx="1100" cy="660" r="220"/>
+    <path d="M80 760l360-280 220 120 260-220 400 300"/>
+  </g>
+</svg>

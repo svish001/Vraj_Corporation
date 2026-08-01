@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Site operations placeholder">
+  <rect width="800" height="800" fill="#0b2545"/>
+  <circle cx="620" cy="180" r="130" fill="#d6a72d" opacity="0.25"/>
+  <path d="M100 560h600v90H100z" fill="#1a3a6b"/>
+  <path d="M180 480h420v70H180z" fill="#d6a72d" opacity="0.55"/>
+  <text x="90" y="130" fill="#ffffff" font-size="54" font-family="DM Serif Display, serif">Since 1985</text>
+</svg>

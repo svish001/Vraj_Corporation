@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Vraj Corporation logo">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a3a6b"/>
+      <stop offset="100%" stop-color="#0b2545"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2d27c"/>
+      <stop offset="100%" stop-color="#d6a72d"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="28" fill="#ffffff"/>
+  <path d="M54 40h56l36 66 34-66h24l-50 96h-29z" fill="url(#g1)"/>
+  <path d="M166 76l16 8-34 64-24-12 11-19 14 7z" fill="url(#g2)"/>
+  <text x="120" y="188" text-anchor="middle" font-size="22" font-family="Rajdhani, sans-serif" font-weight="700" fill="#0b2545">VRAJ</text>
+</svg>
